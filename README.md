@@ -31,7 +31,7 @@ Choose an option (1 or 2): 2
 Enter a decimal number: 10
 Binary value: 1010
 
-How It Works
+## How It Works
 
 Binary → Decimal
 Uses Integer.parseInt(binary, 2)
@@ -39,7 +39,7 @@ Uses Integer.parseInt(binary, 2)
 Decimal → Binary
 Uses Integer.toBinaryString(decimal)
 
-Future Improvements
+## FUTURE IMPROVEMENTS
 
 Input validation for incorrect binary values
 
@@ -47,7 +47,7 @@ Loop menu for multiple conversions
 
 Manual conversion logic (without built-in methods)
 
-Author
+##Author
 
 Brian Kelly Ochieng
 Software Engineer | Java & Full-Stack Development
